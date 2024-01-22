@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Indranil Halder's homepage"
+title                    : "Welcome to Indranil Halder's personal website"
 title_separator          : "-"
 name                     : &name "Indranil Halder"
 description              : &description "personal description"
