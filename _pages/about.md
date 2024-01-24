@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently the [Quantum Initiative Fellow ](https://quantum.harvard.edu/post-doctoral-fellows) at the [Center for the Fundamental Laws of Nature](https://hetg.physics.harvard.edu).  
+I am currently the [Quantum Initiative Fellow ](https://quantum.harvard.edu/post-doctoral-fellows) at the [Center for the Fundamental Laws of Nature](https://hetg.physics.harvard.edu). My primary academic advisor is [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis). My research has been heavily influenced by several discussions with [Xi Yin](https://www.physics.harvard.edu/people/facpages/yin). 
 
 Research interests
 ======
