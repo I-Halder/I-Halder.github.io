@@ -12,3 +12,8 @@ I am currently the [Quantum Initiative Fellow ](https://quantum.harvard.edu/post
 
 Research interests
 ======
+
+# A
+My theoretical physics research interest includes understanding the quantum nature of entanglement in gravitational and non-gravitational systems. 
+
+During his early days at Harvard, I established a new strong-weak duality closely related to ER=EPR - the fascinating connection between entanglement and geometry. More recently, he has made distinct progress on the long-standing issue of evaluation of thermal entropy from a microscopic analysis in gravitational systems. In the past, he worked extensively on theoretical developments of topological quantum computation, more precisely on Chern-Simons theory coupled to fundamental matter. He studied new Higgsed phases and discovered a non-commutative structure in these theories in the presence of a background magnetic field. He has also pursued the discussion of winding tachyon condensation in AdS₃ that is relevant for thermal microstates of a likely small black object and identified an entropic transition between a black hole and a black ring in the context of Calabi-Yau compactification. 
