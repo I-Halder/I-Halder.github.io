@@ -12,7 +12,6 @@ I am currently the [Quantum Initiative Fellow ](https://quantum.harvard.edu/post
 
 Primary research interest
 ======
-
 ### Geometry and entanglement
 
 Long-range entanglement in quantum field theories provides the theoretical playground for fault-tolerant quantum computation. Prototype field theory featuring such entanglement structure includes Chern-Simons gauge theory coupled to matter fields. During my graduate studies, I have extensively investigated the properties of such theories and discovered the existence of the new Higged phases. When such a theory is placed in an external uniform magnetic field, it features a non-commutative structure at all energy scales. Taking advantage of the non-commutative structure I have found an `exact' solution for the rich band structure at non-zero chemical potential.
@@ -24,3 +23,7 @@ Through the lens of holography, geometric properties of a gravitational theory i
 The winding condensate description of the strings in thermal AdS(3) mentioned above allowed the study of condensation of nearly marginal winding tachyon on the Euclidean time circle near Hagedorn temperature perturbatively directly from the worldsheet. Away from the Hagedorn temperature, the perturbation theory breaks down. At Hawking-Page temperature, I studied a specific double winding condensate CFT and conjected it to be continuously connected to the perturbative solution mentioned above as we increase the temperature. 
 
 While Hagedorn density of states is the hallmark of perturbative string theory, it has been long speculated if there exist theories with higher than the Hagedorn growth of density of states for physical theories. I have shown that tensor model quantum mechanics of SYK type is a good candidate for such theories, while the gravitational dual to the quantum mechanics still remains to be found.
+
+Additional interests
+======
+I am also facinated with the development of the non-linear machine learning techniques in recent times. In my free time I often spend hours in applying these techniques to challenging numerical problems. If you have an interesting project idea along these directions feel free to reach out to me.
