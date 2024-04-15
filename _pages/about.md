@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently the [Quantum Initiative Fellow ](https://quantum.harvard.edu/post-doctoral-fellows) at the [Center for the Fundamental Laws of Nature](https://hetg.physics.harvard.edu), Harvard University. My primary academic advisor is [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis). My research has been influenced by several discussions with [Cumrun Vafa](https://en.wikipedia.org/wiki/Cumrun_Vafa). Prior to my days at Harvard, I pursued my graduate studies under the guidance of [Shiraz Minwalla](https://en.wikipedia.org/wiki/Shiraz_Minwalla). 
+I am currently the [Quantum Initiative Fellow ](https://quantum.harvard.edu/post-doctoral-fellows) at the [Center for the Fundamental Laws of Nature](https://hetg.physics.harvard.edu), Harvard University. My primary academic advisor is [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis). Prior to my days at Harvard, I pursued my graduate studies under the guidance of [Shiraz Minwalla](https://en.wikipedia.org/wiki/Shiraz_Minwalla). 
 
 Primary research interest
 ======
