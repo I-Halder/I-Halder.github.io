@@ -23,7 +23,3 @@ Through the lens of holography, geometric properties of a gravitational theory i
 The winding condensate description of the strings in thermal AdS(3) mentioned above allowed the study of condensation of nearly marginal winding tachyon on the Euclidean time circle near Hagedorn temperature perturbatively directly from the worldsheet. Away from the Hagedorn temperature, the perturbation theory breaks down. At Hawking-Page temperature, I studied a specific double winding condensate CFT and conjected it to be continuously connected to the perturbative solution mentioned above as we increase the temperature. 
 
 While Hagedorn density of states is the hallmark of perturbative string theory, it has been long speculated if there exist theories with higher than the Hagedorn growth of density of states. I have shown that tensor model quantum mechanics of SYK type is a good candidate for such theories, while the gravitational dual to such quantum mechanics still remains to be found.
-
-Additional interests
-======
-I am also facinated with the development of the non-linear machine learning techniques in recent times. In my free time I often spend hours in applying these techniques to challenging numerical problems. If you have an interesting project idea along these directions feel free to reach out to me.
