@@ -1,1 +1,1 @@
-This website is built using the template available at academicpages.github.io. 
+This is the repository for my personal website: I-Halder.github.io. 
