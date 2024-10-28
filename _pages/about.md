@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Indranil Halder currently holds an associate researcher position at the Center for the Fundamental Laws of Nature, Harvard University. Earlier, he was the Quantum Initiative Fellow at Harvard University. He is also affiliated with UC Davis's Center for Quantum Mathematics and Physics. 
+Indranil Halder currently holds an associate researcher position at Harvard University. Earlier, he was the Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature. He is also affiliated with the Center for Quantum Mathematics and Physics at the University of California, Davis. 
 
 # Research Interest
-His central research interest lies in theoretical mathematical physics and machine learning. 
+His central research interest lies in theoretical mathematical physics. 
 
 He worked extensively on theoretical developments of topological quantum computation, more precisely on Chern-Simons gauge theory coupled to matter. He discovered a condensed phase and pointed out an exact non-commutative structure in these theories in the presence of a background magnetic field. 
 
