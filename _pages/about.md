@@ -15,7 +15,7 @@ Indranil Halder currently holds an associate researcher position at Harvard Univ
 
 During his early days at Harvard, Indranil Halder established a new [strong-weak duality](https://link.springer.com/article/10.1007/JHEP07(2023)049) closely related to ER=EPR - the fascinating connection between entanglement and geometry. Using the duality he has made distinct progress on the long-standing issue of [thermal microstate counting](https://link.springer.com/article/10.1007/JHEP05(2024)136) in gravitational systems.
 
-In the past, he worked extensively on theoretical developments of topological quantum computation, more precisely on Chern-Simons gauge theory coupled to matter. He discovered a [condensed phase](https://link.springer.com/article/10.1007/JHEP11(2018)177) and pointed out an exact [non-commutative structure](https://link.springer.com/article/10.1007/JHEP11(2019)089) in these theoriesin the presence of a background magnetic field. 
+In the past, he worked extensively on theoretical developments of topological quantum computation, more precisely on Chern-Simons gauge theory coupled to matter. He discovered a [condensed phase](https://link.springer.com/article/10.1007/JHEP11(2018)177) and pointed out an exact [non-commutative structure](https://link.springer.com/article/10.1007/JHEP11(2019)089) in the presence of a background magnetic field. 
 
 
 ## Research Interest: Theoretical Machine Learning
