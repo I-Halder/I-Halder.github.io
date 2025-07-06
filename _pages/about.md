@@ -18,6 +18,6 @@ During his early days at Harvard, Indranil Halder established a new [strong-wea
 In the past, he worked extensively on theoretical developments of topological quantum computation, more precisely on Chern-Simons gauge theory coupled to matter. He discovered a [condensed phase](https://link.springer.com/article/10.1007/JHEP11(2018)177) and pointed out an exact [non-commutative structure](https://link.springer.com/article/10.1007/JHEP11(2019)089) in the presence of a background magnetic field. 
 
 
-## Research interest: Mathematical aspects of machine learning 
+## Research interest: Statistical aspects of machine learning 
 
 He has defined and studied an analytically tractable [one-step diffusion model](https://openreview.net/forum?id=k4Q1ino3p0). In the context of higher-dimensional statistics, using the method of deterministic equivalence, he has proved a theorem that presents an explicit formula for the Kullback-Leibler divergence between the generated and sampling distribution, taken to be isotropic Gaussian, showing the effect of finite diffusion time and noise scale. It shows that the monotonic fall phase of Kullback-Leibler divergence begins when the training dataset size reaches the dimension of the data points. Finally, for large-scale practical diffusion models, it explains why a higher number of diffusion steps enhances production quality. 
