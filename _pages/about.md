@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Indranil Halder currently holds an associate researcher position at Harvard University. Earlier, he was the Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature. He is also affiliated with the Center for Quantum Mathematics and Physics at the University of California, Davis. 
+Indranil Halder currently holds an associate researcher position at Harvard University. Earlier, he was the Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature.
 
 
 ## Research interest: Theoretical high energy physics
