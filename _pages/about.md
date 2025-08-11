@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Indranil Halder is a Postdoctoral Fellow at the Harvard John A. Paulson School of Engineering and Applied Sciences in the Machine Learning Foundations Group with [Cengiz Pehlevan](https://seas.harvard.edu/about-us/directory?search=%22Cengiz%20Pehlevan%22). Previously, Indranil was the Harvard Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature with [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis) and briefly served as a Research Associate at Harvard University. During his graduate studies, he was advised by [Shiraz Minwalla](https://en.wikipedia.org/wiki/Shiraz_Minwalla). 
+Indranil Halder is a Postdoctoral Fellow at the Harvard John A. Paulson School of Engineering and Applied Sciences in the Machine Learning Foundations Group with [Cengiz Pehlevan](https://seas.harvard.edu/about-us/directory?search=%22Cengiz%20Pehlevan%22). Previously, Indranil was the Harvard Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature with [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis) and briefly served as a Research Associate at Harvard University. During his graduate studies, he was advised by [Shiraz Minwalla](https://en.wikipedia.org/wiki/Shiraz_Minwalla) at Tata Institute of Fundamental Research. 
 
 ## Research
 
