@@ -10,7 +10,9 @@ redirect_from:
 
 Indranil Halder is a Postdoctoral Fellow at the Harvard John A. Paulson School of Engineering and Applied Sciences in the Machine Learning Foundations Group with [Cengiz Pehlevan](https://seas.harvard.edu/about-us/directory?search=%22Cengiz%20Pehlevan%22). Previously, Indranil was the Harvard Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature with [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis) and briefly served as a Research Associate at Harvard University. During his graduate studies, he was advised by [Shiraz Minwalla](https://en.wikipedia.org/wiki/Shiraz_Minwalla). 
 
-## Theoretical machine learning 
+## Research
+
+**Theoretical machine learning**
 
 Indranil is a theoretical machine learning researcher specializing in generative AI, with research interests in the interpretability of knowledge representations, the safety and robustness of deep learning systems, and inference-time algorithms.
 
@@ -18,7 +20,7 @@ He has defined and studied an analytically tractable [one-step diffusion model](
 
 In parallel, he is developing a safety-aware pre-training algorithm for large language models designed to enhance robustness while preserving performance. He also has an upcoming paper that establishes a formal inference-time scaling law and identifies the optimal number of inference-time samples for highly accurate and comparatively noisy reward processes, respectively.
 
-## Theoretical physics
+**Theoretical physics**
 
 Before transitioning to machine learning, Indranil made notable contributions to theoretical physics, with several publications in the Journal of High Energy Physics (JHEP).
 
