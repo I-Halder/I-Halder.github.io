@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Indranil Halder is a Research Associate at the Harvard John A. Paulson School of Engineering and Applied Sciences in the Machine Learning Foundations Group. I am currently working with [Cengiz Pehlevan](https://seas.harvard.edu/about-us/directory?search=%22Cengiz%20Pehlevan%22). Previously, Indranil was the Harvard Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature with [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis).
+Indranil Halder is a Research Associate at the Harvard John A. Paulson School of Engineering and Applied Sciences in the Machine Learning Foundations Group. He is currently working with [Cengiz Pehlevan](https://seas.harvard.edu/about-us/directory?search=%22Cengiz%20Pehlevan%22). Previously, Indranil was the Harvard Quantum Initiative Fellow at the Center for the Fundamental Laws of Nature with [Daniel Jafferis](https://www.physics.harvard.edu/people/facpages/jafferis).
 
 ## Research
 
@@ -16,8 +16,7 @@ Indranil Halder is a Research Associate at the Harvard John A. Paulson School of
 
 Indranil is a theoretical machine learning researcher specializing in generative AI, with research interests in the interpretability of knowledge representations, the safety and robustness of deep learning systems, and inference-time algorithms.
 
-He has defined and studied an analytically tractable [one-step diffusion model](https://openreview.net/forum?id=k4Q1ino3p0), leading to a publication in the International Conference on Machine Learning (ICML). In the context of higher-dimensional statistics, using the method of deterministic equivalence, he has proved a theorem that presents an explicit formula for the Kullback-Leibler divergence between the generated and sampling distribution, taken to be isotropic Gaussian, showing the effect of finite diffusion time and noise scale. It shows that the monotonic fall phase of Kullback-Leibler divergence begins when the training dataset size reaches the dimension of the data points. Finally, for large-scale practical diffusion models, it explains why a higher number of diffusion steps enhances production quality. 
-
+He has defined and studied an analytically tractable [one-step diffusion model](https://openreview.net/forum?id=k4Q1ino3p0), leading to a publication in the International Conference on Machine Learning (ICML). In the context of higher-dimensional statistics, using the method of deterministic equivalence, he has proved a theorem that presents an explicit formula for the Kullback-Leibler divergence between the generated and sampling distribution, taken to be isotropic Gaussian, showing the effect of finite diffusion time and noise scale. It shows that the monotonic fall phase of Kullback-Leibler divergence begins when the training dataset size reaches the dimension of the data points. 
 In parallel, he is developing a safety-aware pre-training algorithm for large language models designed to enhance robustness while preserving performance. He also has an upcoming paper that establishes a formal inference-time scaling law and identifies the optimal number of inference-time samples for highly accurate and comparatively noisy reward processes, respectively.
 
 **Theoretical physics**
