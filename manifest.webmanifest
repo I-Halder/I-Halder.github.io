@@ -1,0 +1,21 @@
+{
+  "name": "Indranil Halder",
+  "short_name": "Indranil Halder",
+  "lang": "en-us",
+  "theme_color": "#40045C",
+  "background_color": "#40045C",
+  "icons": [
+    {
+      "src": "/media/seas_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/media/seas_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

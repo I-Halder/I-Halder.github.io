@@ -1,1 +1,1 @@
-This is the repository for my personal website: I-Halder.github.io. 
+# Indranil Halder's — personal website
