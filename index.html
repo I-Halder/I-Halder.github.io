@@ -78,6 +78,11 @@
     .article-style strong { font-weight: 700; }
     /* smaller profile photo */
     #profile .profile-photo { width: 150px; height: 150px; margin-bottom: 1rem; }
+    /* teaser animation floated to the left of a publication summary */
+    .pub-summary.has-anim { display: flow-root; }
+    .pub-anim { float: left; width: 48%; max-width: 460px; margin: 0.3rem 1.25rem 0.5rem 0; }
+    .pub-anim video { display: block; width: 100%; height: auto; aspect-ratio: 5 / 4; background: #fff; }
+    @media (max-width: 767.98px) { .pub-anim { float: none; width: 100%; max-width: 520px; margin: 0.3rem 0 0.9rem 0; } }
   </style>
 </head>
 
@@ -218,7 +223,14 @@
   BibTeX
 </a>
 </p>
-  <div class="pub-summary">
+  <div class="pub-summary has-anim">
+    <figure class="pub-anim">
+      <video autoplay muted loop playsinline preload="auto" width="1000" height="800"
+             poster="/media/poisoning_scaling_poster.jpg"
+             aria-label="Animation: the relative rise in clean-data perplexity follows a power law in the poison rate, Delta approximately C epsilon to the a; the exponent grows with model size from 0.79 to 1.23 and, for the 774M model, with training from 1.15 to 1.23">
+        <source src="/media/poisoning_scaling.mp4" type="video/mp4">
+      </video>
+    </figure>
     <p>Pre-training data poisoning of large language models is usually studied through targeted backdoors and their survival through safety post-training. This work asks a more basic question: how does a model&rsquo;s clean-data performance degrade as the poison rate \(\varepsilon\) grows? In controlled pre-training runs of OLMo-style models, the relative increase \(\Delta\) in clean-data validation perplexity between poisoned and clean models, matched in architecture, token budget and optimization schedule, is well fit by a power law \(\Delta \approx C\varepsilon^{a}\) with a non-integer exponent.</p>
     <p>The paper first proves an analyticity barrier: whenever the contaminated objective depends analytically on \(\varepsilon\) around a nondegenerate clean-data optimum, \(\Delta\) is generically quadratic in \(\varepsilon\), so a non-integer exponent is a signature of genuinely singular structure. That structure is supplied by a solvable model, truncated ridge regression with heavy-tailed covariates controlled by \(q_*\), under label-shift poisoning. The central result is that the excess-risk scaling exponent depends on the order of limits: in the high-dimensional proportional regime it scales as \(\varepsilon^{q_*/(q_*+2)}\), whereas taking the ample-data limit first gives \(\varepsilon^{2-2/q_*}\), and the two limits do not commute. These predictions are confirmed by numerical simulations. Finally, the paper argues that finite training time acts as a poison-dependent truncation of the curvature spectrum in LLM pre-training, and derives the observed scaling law under the modeling hypothesis of a heavy-tailed inverse-curvature spectrum.</p>
   </div>
@@ -248,7 +260,14 @@
   BibTeX
 </a>
 </p>
-  <div class="pub-summary">
+  <div class="pub-summary has-anim">
+    <figure class="pub-anim">
+      <video autoplay muted loop playsinline preload="auto" width="1000" height="800"
+             poster="/media/jailbreak_scaling_haiku_poster.jpg"
+             aria-label="Animation: jailbreak scaling of Claude Haiku 4.5 with and without AutoDAN-Turbo injection; the jailbreak raises the exponential rate about tenfold">
+        <source src="/media/jailbreak_scaling_haiku.mp4" type="video/mp4">
+      </video>
+    </figure>
     <p>This work examines how inference-time scaling changes under adversarial attack. Jailbreak prompts exploit weaknesses in a model&rsquo;s safety mechanisms, and repeated sampling k times can turn a small per-generation vulnerability into a high probability of attack success at least once, as measured by pass@k. Indranil and collaborators experimentally show that the probability of obtaining an unsafe response can obey qualitatively different scaling laws depending on the strength of the attack. Without a strong attack, the residual safety gap can decay polynomially with the number of samples; under sufficiently strong adversarial prompting, it can instead decay exponentially.</p>
     <p>To explain this, the paper develops a generative model of proxy language in terms of a spin-glass system operating in a replica-symmetry-breaking regime, where generations are drawn from the associated Gibbs measure and a subset of low-energy, size-biased clusters is designated unsafe. The jailbreak attack acts like an external field that biases generations toward unsafe clusters. The theory predicts a weak-field regime with power-law scaling and a strong-field regime with exponential scaling, and connects the crossover to the emergence of an ordered phase under strong adversarial attack. These predictions are supported by LLM experiments.</p>
   </div>
@@ -274,7 +293,14 @@
   BibTeX
 </a>
 </p>
-  <div class="pub-summary">
+  <div class="pub-summary has-anim">
+    <figure class="pub-anim">
+      <video autoplay muted loop playsinline preload="auto" width="1000" height="800"
+             poster="/media/llm_judge_scaling_poster.jpg"
+             aria-label="Animation: for Llama-3-8B-Instruct on GSM8K, a strong process-reward judge makes the error of the selected answer fall as a power law in the number of samples k; with a weak judge the error is lowest at k of about 9 and more samples hurt">
+        <source src="/media/llm_judge_scaling.mp4" type="video/mp4">
+      </video>
+    </figure>
     <p>Recent advances in large language models increasingly rely on reallocating computation from training to inference through repeated sampling and reward-based search guided by a judge model. While these methods can improve performance, they also create new opportunities for reward hacking: a model may optimize the judge model&rsquo;s flaws to get better reward while degrading the underlying quality of its outputs. In this paper, Indranil developed a theoretical framework for understanding these effects.</p>
     <p>This work shows that, depending on reward misspecification, increasing the number of inference-time samples can either help monotonically or admit a finite optimum, and that for fixed sample count, there is an optimal reward-based selection temperature. In the monotonic domain, the framework predicts a new inference-time scaling law for generalization error that is distinct from pass@k, as it accounts for both the reasoning quality and the final-answer accuracy of model generations. These predictions are validated empirically in the LLM-as-a-Judge setting for mid-sized LLMs.</p>
   </div>
